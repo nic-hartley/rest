@@ -1,0 +1,10 @@
+[package]
+name = "rest-proc-macro"
+description = "Proc macros for `rest`."
+version = "0.0.2"
+edition = "2021"
+
+[lib]
+proc_macro = true
+
+[dependencies]

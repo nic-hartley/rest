@@ -1,0 +1,8 @@
+[package]
+name = "rest"
+description = "A REST client framework. Customizable, fast, and concise."
+readme = "../README.md"
+version = "0.0.2"
+edition = "2021"
+
+[dependencies]
